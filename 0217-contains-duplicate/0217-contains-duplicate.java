@@ -1,15 +1,17 @@
-import java.util.Arrays;
-class Solution {
-    public boolean containsDuplicate(int[] arr) {
-
-        Arrays.sort(arr);
-        for(int i=0;i<arr.length-1;i++)
+import java.util.HashSet;
+class Solution 
+{
+    public boolean containsDuplicate(int[] arr) 
+    {
+        HashSet<Integer> set=new HashSet<>();
+        for(int i:arr)
         {
-            if(arr[i]==arr[i+1])
+            if(set.contains(i))
             {
                 return true;
-                
             }
+            
+                set.add(i);
         }
         return false;
     }
