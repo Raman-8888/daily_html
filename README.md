@@ -15,6 +15,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Raman-8888/daily_html/tree/master/0217-contains-duplicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Raman-8888/daily_html/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
@@ -34,5 +35,10 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Raman-8888/daily_html/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+## Enumeration
+|  |
+| ------- |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
