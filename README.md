@@ -16,6 +16,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Raman-8888/daily_html/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Raman-8888/daily_html/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Raman-8888/daily_html/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
