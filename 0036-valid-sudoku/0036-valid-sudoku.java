@@ -2,71 +2,48 @@ class Solution
 {
     public boolean isValidSudoku(char[][] board) 
     {
-        if(board.length!=9||board[0].length!=9)
+        int n=9;
+        HashSet<Character>[]rows=new HashSet[n];
+        HashSet<Character>[]col=new HashSet[n];
+        HashSet<Character>[]box=new HashSet[n];
+        for(int i=0;i<9;i++)
         {
-            return false;
+            rows[i]=new HashSet<Character>();
+            col[i]=new HashSet<Character>();
+            box[i]=new HashSet<Character>();
         }
-        boolean isvalid=true;
-        for(int i=0;i<board.length;i++)
+        for(int i=0;i<9;i++)
         {
-           HashSet<Character> set = new HashSet<>(); 
-            for(int j=0;j<board[i].length;j++)
+            for(int j=0;j<9;j++)
             {
-                if(board[i][j]=='.')
+                char val=board[i][j];
+                if(val=='.')
                 {
                     continue;
                 }
-                else
+            
+                if(rows[i].contains(val))
                 {
-                    if(!set.contains(board[i][j]))
-                    {
-                        set.add(board[i][j]);
-                    }
-                    else
-                    {
-                        return false;
-                    }
+                    return false;
                 }
+                rows[i].add(val);
 
-            }
-        }
-        for(int i=0;i<board[0].length;i++)
-        {
-           HashSet<Character> set = new HashSet<>(); 
-            for(int j=0;j<board.length;j++)
-            {
-                if(board[j][i]=='.')
+                if(col[j].contains(val))
                 {
-                    continue;
+                    return false;
                 }
-                else
-                {
-                    if(!set.contains(board[j][i]))
-                    {
-                        set.add(board[j][i]);
-                    }
-                    else
-                    {
-                        return false;
-                    }
-                }
+                col[j].add(val);
 
-            }
-        }
-        for (int boxRow = 0; boxRow < 3; boxRow++) {
-            for (int boxCol = 0; boxCol < 3; boxCol++) {
-                HashSet<Character> set = new HashSet<>();
-                for (int i = 0; i < 3; i++) {
-                    for (int j = 0; j < 3; j++) {
-                        char curr = board[boxRow * 3 + i][boxCol * 3 + j];
-                        if (curr == '.') continue;
-                        if (set.contains(curr)) return false;
-                        set.add(curr);
-                    }
+                int idx=(i/3)*3 +j/3;
+                if(box[idx].contains(val))
+                {
+                    return false;
                 }
+                box[idx].add(val);
             }
+
         }
         return true;
-        
     }
+        
 }
