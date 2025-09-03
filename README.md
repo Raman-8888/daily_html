@@ -95,9 +95,14 @@
 ## Math
 |  |
 | ------- |
+| [2050-count-good-numbers](https://github.com/Raman-8888/daily_html/tree/master/2050-count-good-numbers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Geometry
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Raman-8888/daily_html/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
