@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Raman-8888/daily_html/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Raman-8888/daily_html/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Raman-8888/daily_html/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Raman-8888/daily_html/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Raman-8888/daily_html/tree/master/0541-reverse-string-ii) |
 ## Array
 |  |
 | ------- |
