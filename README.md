@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Raman-8888/daily_html/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2050-count-good-numbers](https://github.com/Raman-8888/daily_html/tree/master/2050-count-good-numbers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Raman-8888/daily_html/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
