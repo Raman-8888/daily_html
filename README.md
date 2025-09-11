@@ -27,6 +27,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1917-maximum-average-pass-ratio](https://github.com/Raman-8888/daily_html/tree/master/1917-maximum-average-pass-ratio) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Raman-8888/daily_html/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Raman-8888/daily_html/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
