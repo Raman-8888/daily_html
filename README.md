@@ -13,6 +13,7 @@
 | [0242-valid-anagram](https://github.com/Raman-8888/daily_html/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Raman-8888/daily_html/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Raman-8888/daily_html/tree/master/0541-reverse-string-ii) |
+| [2887-sort-vowels-in-a-string](https://github.com/Raman-8888/daily_html/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/Raman-8888/daily_html/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raman-8888/daily_html/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
+| [2887-sort-vowels-in-a-string](https://github.com/Raman-8888/daily_html/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Raman-8888/daily_html/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Dynamic Programming
