@@ -31,6 +31,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1917-maximum-average-pass-ratio](https://github.com/Raman-8888/daily_html/tree/master/1917-maximum-average-pass-ratio) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Raman-8888/daily_html/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Raman-8888/daily_html/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -118,6 +119,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Raman-8888/daily_html/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2050-count-good-numbers](https://github.com/Raman-8888/daily_html/tree/master/2050-count-good-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Raman-8888/daily_html/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Raman-8888/daily_html/tree/master/3462-vowels-game-in-a-string) |
@@ -144,4 +146,12 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Raman-8888/daily_html/tree/master/3462-vowels-game-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
