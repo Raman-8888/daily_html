@@ -33,6 +33,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Raman-8888/daily_html/tree/master/1917-maximum-average-pass-ratio) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Raman-8888/daily_html/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Raman-8888/daily_html/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Raman-8888/daily_html/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -47,6 +48,7 @@
 | [0242-valid-anagram](https://github.com/Raman-8888/daily_html/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raman-8888/daily_html/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Raman-8888/daily_html/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raman-8888/daily_html/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Raman-8888/daily_html/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raman-8888/daily_html/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
