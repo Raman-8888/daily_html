@@ -40,6 +40,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Raman-8888/daily_html/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Raman-8888/daily_html/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Binary Search
+|  |
+| ------- |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Raman-8888/daily_html/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 <!---LeetCode Topics End-->
