@@ -12,6 +12,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raman-8888/daily_html/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Raman-8888/daily_html/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Raman-8888/daily_html/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Raman-8888/daily_html/tree/master/0344-reverse-string) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raman-8888/daily_html/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Raman-8888/daily_html/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Raman-8888/daily_html/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -152,6 +154,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Raman-8888/daily_html/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Brainteaser
 |  |
@@ -183,4 +186,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raman-8888/daily_html/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
