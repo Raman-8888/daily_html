@@ -123,6 +123,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Raman-8888/daily_html/tree/master/0002-add-two-numbers) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Raman-8888/daily_html/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -140,6 +141,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Raman-8888/daily_html/tree/master/0002-add-two-numbers) |
 | [2050-count-good-numbers](https://github.com/Raman-8888/daily_html/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Raman-8888/daily_html/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Raman-8888/daily_html/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
