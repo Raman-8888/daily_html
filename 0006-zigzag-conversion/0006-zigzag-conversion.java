@@ -1,25 +1,41 @@
 class Solution {
-    public String convert(String s, int numRows) {
-        if (numRows == 1) return s;  // \U0001f448 Important line
+    public String convert(String s, int n) {
 
-        StringBuilder[] rows = new StringBuilder[numRows];
-        for (int i = 0; i < numRows; i++) rows[i] = new StringBuilder();
+    if(n==1||s.length()<n)return s;
 
-        int row = 0;
-        boolean goingDown = false;
+    String arr[]=new String[n];
+    for(int i=0;i<n;i++)
+    {
+        arr[i]="";
+    }
+    int count=0;
+    boolean down=true;
+    char str[]=s.toCharArray();
+    
 
-        for (char c : s.toCharArray()) {
-            rows[row].append(c);
+    for(char c:str)
+    {
+        arr[count]+=c;
 
-            if (row == numRows - 1) goingDown = false;
-            else if (row == 0) goingDown = true;
-
-            row += goingDown ? 1 : -1;
+        if(count==n-1)
+        {
+            down=false;
         }
 
-        StringBuilder res = new StringBuilder();
-        for (StringBuilder sb : rows) res.append(sb);
-
-        return res.toString();
+        else if(count==0)
+        {
+            down=true;
+        }
+        if(down)count++;
+        else count--;
     }
+
+    String res="";
+    for(String i:arr)
+    {
+        res+=i;
+    }
+    return res;
+    }
+        
 }
