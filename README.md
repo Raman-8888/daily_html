@@ -6,6 +6,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Raman-8888/daily_html/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Raman-8888/daily_html/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman-8888/daily_html/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Raman-8888/daily_html/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Raman-8888/daily_html/tree/master/0541-reverse-string-ii) |
 ## String
@@ -36,6 +37,7 @@
 | [0090-subsets-ii](https://github.com/Raman-8888/daily_html/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman-8888/daily_html/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Raman-8888/daily_html/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman-8888/daily_html/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Raman-8888/daily_html/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Raman-8888/daily_html/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raman-8888/daily_html/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Raman-8888/daily_html/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman-8888/daily_html/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Raman-8888/daily_html/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Linked List
 |  |
