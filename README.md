@@ -14,6 +14,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raman-8888/daily_html/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Raman-8888/daily_html/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Raman-8888/daily_html/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Raman-8888/daily_html/tree/master/0125-valid-palindrome) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raman-8888/daily_html/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Raman-8888/daily_html/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Raman-8888/daily_html/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Raman-8888/daily_html/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raman-8888/daily_html/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Raman-8888/daily_html/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Raman-8888/daily_html/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Raman-8888/daily_html/tree/master/0069-sqrtx) |
