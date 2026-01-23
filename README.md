@@ -15,6 +15,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raman-8888/daily_html/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Raman-8888/daily_html/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Raman-8888/daily_html/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Raman-8888/daily_html/tree/master/0125-valid-palindrome) |
@@ -88,6 +89,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman-8888/daily_html/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -193,6 +195,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
