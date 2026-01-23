@@ -54,6 +54,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Raman-8888/daily_html/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Raman-8888/daily_html/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raman-8888/daily_html/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Raman-8888/daily_html/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Raman-8888/daily_html/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/Raman-8888/daily_html/tree/master/1917-maximum-average-pass-ratio) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raman-8888/daily_html/tree/master/0002-add-two-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,8 +215,17 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Raman-8888/daily_html/tree/master/0128-longest-consecutive-sequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
