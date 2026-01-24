@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman-8888/daily_html/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Raman-8888/daily_html/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Raman-8888/daily_html/tree/master/0541-reverse-string-ii) |
+| [0680-valid-palindrome-ii](https://github.com/Raman-8888/daily_html/tree/master/0680-valid-palindrome-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raman-8888/daily_html/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -24,6 +25,7 @@
 | [0242-valid-anagram](https://github.com/Raman-8888/daily_html/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Raman-8888/daily_html/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Raman-8888/daily_html/tree/master/0541-reverse-string-ii) |
+| [0680-valid-palindrome-ii](https://github.com/Raman-8888/daily_html/tree/master/0680-valid-palindrome-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raman-8888/daily_html/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/Raman-8888/daily_html/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Raman-8888/daily_html/tree/master/3462-vowels-game-in-a-string) |
@@ -151,6 +153,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Raman-8888/daily_html/tree/master/0680-valid-palindrome-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raman-8888/daily_html/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Raman-8888/daily_html/tree/master/1917-maximum-average-pass-ratio) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Raman-8888/daily_html/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
