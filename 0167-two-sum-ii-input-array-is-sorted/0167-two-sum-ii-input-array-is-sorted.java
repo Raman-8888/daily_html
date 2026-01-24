@@ -1,20 +1,26 @@
 class Solution {
     public int[] twoSum(int[] arr, int t) {
-        int res[]=new int[2];
+        
         int s=0,e=arr.length-1;
-        while(s<e)
+
+        while(e>s)
         {
-            int sum=arr[s]+arr[e];
+            int sum=arr[e]+arr[s];
             if(sum==t)
             {
-                res[0]=s+1;
-                res[1]=e+1;
-                return res;
+                return new int[]{s+1,e+1};
+
             }
-            else if(t>sum)s++;
-            else e--;
+            if(sum>t)
+            {
+                e--;
+            }
+            else
+            {
+                s++;
+            }
         }
-        return res;
+        return new int[]{0,0};
 
 
 
