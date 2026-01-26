@@ -48,6 +48,7 @@
 | [0238-product-of-array-except-self](https://github.com/Raman-8888/daily_html/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
+| [1200-minimum-absolute-difference](https://github.com/Raman-8888/daily_html/tree/master/1200-minimum-absolute-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raman-8888/daily_html/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -88,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/Raman-8888/daily_html/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
+| [1200-minimum-absolute-difference](https://github.com/Raman-8888/daily_html/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raman-8888/daily_html/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raman-8888/daily_html/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2887-sort-vowels-in-a-string](https://github.com/Raman-8888/daily_html/tree/master/2887-sort-vowels-in-a-string) |
