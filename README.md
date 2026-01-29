@@ -171,6 +171,7 @@
 | [0066-plus-one](https://github.com/Raman-8888/daily_html/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Raman-8888/daily_html/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Raman-8888/daily_html/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Raman-8888/daily_html/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -221,6 +222,7 @@
 | [0069-sqrtx](https://github.com/Raman-8888/daily_html/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman-8888/daily_html/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Raman-8888/daily_html/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Raman-8888/daily_html/tree/master/0704-binary-search) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Raman-8888/daily_html/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Linked List
