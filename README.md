@@ -49,6 +49,7 @@
 | [0238-product-of-array-except-self](https://github.com/Raman-8888/daily_html/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
+| [0704-binary-search](https://github.com/Raman-8888/daily_html/tree/master/0704-binary-search) |
 | [1200-minimum-absolute-difference](https://github.com/Raman-8888/daily_html/tree/master/1200-minimum-absolute-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -220,6 +221,7 @@
 | [0069-sqrtx](https://github.com/Raman-8888/daily_html/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman-8888/daily_html/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Raman-8888/daily_html/tree/master/0704-binary-search) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Raman-8888/daily_html/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Linked List
 |  |
