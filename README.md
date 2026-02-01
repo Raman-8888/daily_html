@@ -53,6 +53,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [0704-binary-search](https://github.com/Raman-8888/daily_html/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Raman-8888/daily_html/tree/master/1200-minimum-absolute-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -94,6 +95,7 @@
 | [0242-valid-anagram](https://github.com/Raman-8888/daily_html/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
+| [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Raman-8888/daily_html/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raman-8888/daily_html/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raman-8888/daily_html/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -127,10 +129,12 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raman-8888/daily_html/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Raman-8888/daily_html/tree/master/1917-maximum-average-pass-ratio) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raman-8888/daily_html/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -138,6 +142,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -266,4 +271,16 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Raman-8888/daily_html/tree/master/0128-longest-consecutive-sequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
