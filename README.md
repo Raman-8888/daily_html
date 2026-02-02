@@ -62,6 +62,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raman-8888/daily_html/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Raman-8888/daily_html/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Raman-8888/daily_html/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Raman-8888/daily_html/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Raman-8888/daily_html/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -100,6 +101,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raman-8888/daily_html/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raman-8888/daily_html/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2887-sort-vowels-in-a-string](https://github.com/Raman-8888/daily_html/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Raman-8888/daily_html/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Raman-8888/daily_html/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Dynamic Programming
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Raman-8888/daily_html/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Raman-8888/daily_html/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Raman-8888/daily_html/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Raman-8888/daily_html/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
