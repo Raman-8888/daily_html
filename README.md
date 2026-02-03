@@ -74,6 +74,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raman-8888/daily_html/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Raman-8888/daily_html/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3637-trionic-array-i](https://github.com/Raman-8888/daily_html/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
