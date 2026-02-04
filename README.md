@@ -56,6 +56,7 @@
 | [0238-product-of-array-except-self](https://github.com/Raman-8888/daily_html/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
+| [0496-next-greater-element-i](https://github.com/Raman-8888/daily_html/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Raman-8888/daily_html/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Raman-8888/daily_html/tree/master/1200-minimum-absolute-difference) |
@@ -89,6 +90,7 @@
 | [0217-contains-duplicate](https://github.com/Raman-8888/daily_html/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raman-8888/daily_html/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Raman-8888/daily_html/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raman-8888/daily_html/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Raman-8888/daily_html/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -232,6 +234,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raman-8888/daily_html/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Raman-8888/daily_html/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Raman-8888/daily_html/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Raman-8888/daily_html/tree/master/0496-next-greater-element-i) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -304,4 +307,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Raman-8888/daily_html/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Raman-8888/daily_html/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
