@@ -48,6 +48,7 @@
 | [0090-subsets-ii](https://github.com/Raman-8888/daily_html/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman-8888/daily_html/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Raman-8888/daily_html/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Raman-8888/daily_html/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Raman-8888/daily_html/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raman-8888/daily_html/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -187,6 +188,7 @@
 | [0066-plus-one](https://github.com/Raman-8888/daily_html/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Raman-8888/daily_html/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Raman-8888/daily_html/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/Raman-8888/daily_html/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Raman-8888/daily_html/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -227,6 +229,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Raman-8888/daily_html/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Raman-8888/daily_html/tree/master/0234-palindrome-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
