@@ -230,6 +230,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raman-8888/daily_html/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Raman-8888/daily_html/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Raman-8888/daily_html/tree/master/0234-palindrome-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
@@ -299,4 +300,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Raman-8888/daily_html/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
