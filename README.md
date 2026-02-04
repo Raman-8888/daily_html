@@ -57,6 +57,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [0496-next-greater-element-i](https://github.com/Raman-8888/daily_html/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Raman-8888/daily_html/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Raman-8888/daily_html/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Raman-8888/daily_html/tree/master/1200-minimum-absolute-difference) |
@@ -235,6 +236,7 @@
 | [0155-min-stack](https://github.com/Raman-8888/daily_html/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Raman-8888/daily_html/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Raman-8888/daily_html/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Raman-8888/daily_html/tree/master/0682-baseball-game) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raman-8888/daily_html/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/Raman-8888/daily_html/tree/master/0682-baseball-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Raman-8888/daily_html/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raman-8888/daily_html/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Union Find
