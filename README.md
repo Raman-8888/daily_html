@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raman-8888/daily_html/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Raman-8888/daily_html/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Raman-8888/daily_html/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Raman-8888/daily_html/tree/master/0141-linked-list-cycle) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raman-8888/daily_html/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Raman-8888/daily_html/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Raman-8888/daily_html/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Raman-8888/daily_html/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0020-valid-parentheses) |
@@ -117,6 +119,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raman-8888/daily_html/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman-8888/daily_html/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
