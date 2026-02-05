@@ -22,6 +22,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Raman-8888/daily_html/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Raman-8888/daily_html/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Raman-8888/daily_html/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Raman-8888/daily_html/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-8888/daily_html/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raman-8888/daily_html/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Raman-8888/daily_html/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raman-8888/daily_html/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Raman-8888/daily_html/tree/master/0036-valid-sudoku) |
@@ -319,4 +321,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Raman-8888/daily_html/tree/master/0496-next-greater-element-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Raman-8888/daily_html/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
