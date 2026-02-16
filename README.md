@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raman-8888/daily_html/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Raman-8888/daily_html/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -234,6 +235,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Raman-8888/daily_html/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Raman-8888/daily_html/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Raman-8888/daily_html/tree/master/0190-reverse-bits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Raman-8888/daily_html/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Brainteaser
 |  |
