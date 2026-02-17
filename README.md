@@ -346,10 +346,12 @@
 ## Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/Raman-8888/daily_html/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/Raman-8888/daily_html/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -358,9 +360,11 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/Raman-8888/daily_html/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/Raman-8888/daily_html/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
