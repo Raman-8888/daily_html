@@ -52,6 +52,7 @@
 | [0046-permutations](https://github.com/Raman-8888/daily_html/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Raman-8888/daily_html/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Raman-8888/daily_html/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/Raman-8888/daily_html/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raman-8888/daily_html/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Raman-8888/daily_html/tree/master/0128-longest-consecutive-sequence) |
@@ -96,6 +97,7 @@
 | [0036-valid-sudoku](https://github.com/Raman-8888/daily_html/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Raman-8888/daily_html/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Raman-8888/daily_html/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Raman-8888/daily_html/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Raman-8888/daily_html/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Raman-8888/daily_html/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Raman-8888/daily_html/tree/master/0169-majority-element) |
@@ -140,6 +142,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Raman-8888/daily_html/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Raman-8888/daily_html/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Raman-8888/daily_html/tree/master/0073-set-matrix-zeroes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Raman-8888/daily_html/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Raman-8888/daily_html/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Raman-8888/daily_html/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
