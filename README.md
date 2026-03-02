@@ -66,6 +66,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Raman-8888/daily_html/tree/master/0368-largest-divisible-subset) |
 | [0496-next-greater-element-i](https://github.com/Raman-8888/daily_html/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Raman-8888/daily_html/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Raman-8888/daily_html/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Raman-8888/daily_html/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Raman-8888/daily_html/tree/master/0912-sort-an-array) |
@@ -105,6 +106,7 @@
 | [0242-valid-anagram](https://github.com/Raman-8888/daily_html/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Raman-8888/daily_html/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Raman-8888/daily_html/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Raman-8888/daily_html/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raman-8888/daily_html/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raman-8888/daily_html/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Raman-8888/daily_html/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Raman-8888/daily_html/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Raman-8888/daily_html/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
